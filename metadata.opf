@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">f2de790e-034c-4809-bc15-b8642c5d05d9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2de790e-034c-4809-bc15-b8642c5d05d9</dc:identifier>
+        <dc:title>High Magick</dc:title>
+        <dc:creator opf:file-as="Echols, Damien" opf:role="aut">Damien Echols</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;At age 18, Damien Echols was sentenced to death for a crime he didn't commit. "I spent my years in prison training to be a true magician," he writes. "I used magick&amp;#8212;the practice of reshaping reality through our intention and will&amp;#8212;to stave off incredible pain, despair, and isolation But the most amazing feat of all that practice and study was to manifest my freedom." With &lt;i&gt;High Magick&lt;/i&gt;, this bestselling author shares his first teaching book on the powerful spiritual techniques that helped him survive and transcend his ordeal on death row. What is High Magick? Most people either think of magic as stage illusions or an occult practice involving dark rituals. "Magick is an incredibly deep, meaningful, spiritual tradition that equals the Eastern practices of Buddhism and Taoism in beauty," says Echols. "It's an ancient discipline that lets you literally change reality by working with the divine energies of creation." Join this extraordinary teacher as he shares key...</dc:description>
+        <dc:publisher>Sounds True</dc:publisher>
+        <dc:rights>All rights reserved</dc:rights>
+        <dc:language>pt</dc:language>
+        <dc:subject>Magia</dc:subject>
+        <dc:subject>Meditação</dc:subject>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capas" href="cover.jpg"/>
+    </guide>
+</package>
