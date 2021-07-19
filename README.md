@@ -1,11 +1,14 @@
-# High Magick by Damien Echols
+# High Magick - Damien Echols
 
 ![cover](cover.jpg)
 
-## Leia o livro [aqui](https://high-magick-damien-echols.netlify.app/), use o google tradutor.
+## Compre o livro aqui
+[High Magick - Damien Echols [Amazon]](https://www.amazon.com.br/High-Magick-Guide-Spiritual-Practices/dp/1683641345/)
 
-<br />
-<hr />
+## Leia aqui
+Apenas se não tiver disponível em seu idioma.<br /> 
+[High Magick - Damien Echols](https://high-magick-damien-echols.netlify.app/)
 
 ## Tarefas
-- [ ] Compactar imagem da capa.
+- [ ] Reduzir o tamanho das imagens.
+- [ ] Enviar as imagens para um servidor, e mudar os links.
